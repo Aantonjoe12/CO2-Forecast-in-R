@@ -29,7 +29,7 @@ Here is the CO2 forecast generated using Prophet:
 ## Forecast Components
 Trend and seasonality of the CO2 forecast:
 
-![CO2 Trend & Seasonality](Results/CO2Forecast2.png)
+![CO2 Trend & Seasonality](Results/C02Forecast2.png)
 
 ## How to Run
 1. Clone this repo  
@@ -37,4 +37,5 @@ Trend and seasonality of the CO2 forecast:
 3. Install dependencies:
    ```r
    install.packages(c("prophet", "zoo"))
+
    ```
