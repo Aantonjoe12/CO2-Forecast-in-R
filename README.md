@@ -26,10 +26,17 @@ Here is the CO2 forecast generated using Prophet:
 
 ![CO2 Forecast](CO2Forecast/Results/CO2Forecast.png)
 
+Here we can plot the dates against the co2 concentration and the graph shows the predicted part for future using the forecast values. 
+The blue line here shows the predicted values that prophet has produced.The black line is the original data.The graph shows that carbon dioxide concentration has been increasing however there is a lot of noise.
+
 ## Forecast Components
 Trend and seasonality of the CO2 forecast:
 
 ![CO2 Trend & Seasonality](CO2Forecast/Results/C02Forecast2.png)
+
+Here we can get more plots that show the trend and yearly seasonality of the forecast.
+The trend shows that there has been a rough increase of co2 by 40 ppm. 
+The yearly seasonality shows that in the first half of the year, especially in April there is a large increase before a drastic drop in late September
 
 ## How to Run
 1. Clone this repo  
